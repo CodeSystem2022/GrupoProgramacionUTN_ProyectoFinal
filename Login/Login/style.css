@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ContenedorPpal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(utn_icon_03.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    gap: 60px;
+    
+}
+input{
+    outline: 0;
+    background-color: rgb(249, 251, 252);
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 15px;
+    color: black;
+}
+
+.boton{
+    font-family:sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background-color: grey;
+    color:rgb(0, 0, 0);    
+    width: 100%;
+    border: solid;
+    padding: 10%;
+    font-size: 15px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+    margin-bottom: 25px;
+}
+.form-group{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+    background-color: hwb(180 95% 3%);
+    max-width: 360px;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 0 5 10px 0 rgba(0, 0, 0, 0.2) 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+    border: solid;
+}
