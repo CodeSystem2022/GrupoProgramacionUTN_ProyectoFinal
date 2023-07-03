@@ -1,7 +1,12 @@
 # GrupoProgramacionUTN :computer: Aplicacion UTN
 
 ***
-## INTEGRANTES:  
+
+![My Skills](http://pabloabalos.com.ar/images/UTN.jpg)
+
+
+***
+## INTEGRANTES: 
   - `Ayelen Cabral`
   - `Nicolas Bogado`
   - `Camila Gonzalez`
